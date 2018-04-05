@@ -1,0 +1,21 @@
+{
+  "name": "redux",
+  "authors": [
+    "naveen <naveen.kolla@ge.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "shadycss": "webcomponents/shadycss#^v1.1.0",
+    "polymer-redux": "tur-nr/polymer-redux#0.4.2"
+  }
+}
